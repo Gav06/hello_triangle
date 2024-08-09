@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/gavin/Projects/hello_triangle/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/HelloTriangle.dir/src/main.c.o -c /home/gavin/Projects/hello_triangle/src/main.c",
+  "file": "/home/gavin/Projects/hello_triangle/src/main.c"
+},
+{
+  "directory": "/home/gavin/Projects/hello_triangle/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/HelloTriangle.dir/src/glad.c.o -c /home/gavin/Projects/hello_triangle/src/glad.c",
+  "file": "/home/gavin/Projects/hello_triangle/src/glad.c"
+}
+]

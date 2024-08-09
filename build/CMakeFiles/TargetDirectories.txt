@@ -1,0 +1,3 @@
+/home/gavin/Projects/hello_triangle/build/CMakeFiles/HelloTriangle.dir
+/home/gavin/Projects/hello_triangle/build/CMakeFiles/edit_cache.dir
+/home/gavin/Projects/hello_triangle/build/CMakeFiles/rebuild_cache.dir
